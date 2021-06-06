@@ -1,0 +1,7 @@
+C:\Users\MEGHANA\source\repos\CodeAnalysis\CodeAnalysis\bin\Debug\CodeAnalysis.exe.config
+C:\Users\MEGHANA\source\repos\CodeAnalysis\CodeAnalysis\bin\Debug\CodeAnalysis.exe
+C:\Users\MEGHANA\source\repos\CodeAnalysis\CodeAnalysis\bin\Debug\CodeAnalysis.pdb
+C:\Users\MEGHANA\source\repos\CodeAnalysis\CodeAnalysis\obj\Debug\CodeAnalysis.csprojAssemblyReference.cache
+C:\Users\MEGHANA\source\repos\CodeAnalysis\CodeAnalysis\obj\Debug\CodeAnalysis.csproj.CoreCompileInputs.cache
+C:\Users\MEGHANA\source\repos\CodeAnalysis\CodeAnalysis\obj\Debug\CodeAnalysis.exe
+C:\Users\MEGHANA\source\repos\CodeAnalysis\CodeAnalysis\obj\Debug\CodeAnalysis.pdb
